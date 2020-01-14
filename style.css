@@ -1,0 +1,52 @@
+div{
+    height: 200vh;
+    width: 100vw;
+    background-color: rgba(255,207,226,0.5);
+}
+ul{
+    list-style-type: none;
+    background-color:  rgb(255, 122, 178);
+    overflow: auto; 
+    margin: 0;
+    padding: 17px;
+
+    
+}
+li a:hover {
+    background-color: rgb(252, 192, 209);
+    color: white;
+    padding: 17px;
+    list-style-type: none;
+}
+
+li{
+    color: rgb(237, 2, 98);
+    list-style-type: none;
+    display: inline;
+}
+.name{
+    color: rgb(255, 79, 152); 
+    font-family: 'Yesteryear', cursive;
+}
+.Iwuzzhere{
+    color: rgb(255, 79, 152);
+font-family: 'Petit Formal Script', cursive;
+}
+p{
+    font-family: 'Cantarell', sans-serif;
+    color: rgb(252, 101, 162);
+}
+th{
+    color: rgb(255, 79, 152);
+    font-family: 'Cantarell', sans-serif;
+
+}
+td{
+    color: rgb(247,100,142);
+    font-family: 'Cantarell', sans-serif;
+
+}
+h1{
+    color: rgb(255, 79, 152);
+font-family: 'Yesteryear', cursive;
+}
